@@ -1,0 +1,20 @@
+li:nth-child(3) {
+    background: red;
+}
+
+li:nth-child(2n) {
+    background: green;
+}
+
+li:nth-child(2n+1) {
+    background: blue;
+}
+
+
+li:nth-child(odd) {
+    background: green; 
+  }
+
+  li:nth-child(even) {
+    background: rgb(37, 67, 233);
+  }
